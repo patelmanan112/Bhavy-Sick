@@ -15,9 +15,6 @@ function location1(data1, data2) {
     //   console.log(data1)
     div.appendChild(p1);
 
-    // div.appendChild(p3);
-
-
 }
 
 function current(data3, data4) {
@@ -29,9 +26,7 @@ function current(data3, data4) {
 }
 function condition(data5, data6) {
     var p3 = document.createElement('p');
-    //  console.log( p3.textContent)
-    //  p3.textContent = `${data5} : ${data6}`
-    //div.appendChild(p3);
+   
 
 
 }
